@@ -1,0 +1,101 @@
+customer_id,name,age,gender,city
+1,Letícia Lourenço,56,M,Albufeira
+2,Fernando Borges,69,M,Figueira da Foz
+3,Santiago Paiva,46,M,Évora
+4,Lara Marques,32,M,Costa da Caparica
+5,Mário Cunha,60,M,Esmoriz
+6,Matilde do Neto,25,F,Setúbal
+7,Martim Campos,38,M,Lagos
+8,Hugo Vaz,56,F,São João da Madeira
+9,Francisca de Loureiro,36,F,Tomar
+10,Mariana de Ramos,40,F,Almeirim
+11,Paulo do Loureiro,28,M,São Salvador de Lordelo
+12,Luca Henriques,28,M,Ponte de Sor
+13,Adriana-Juliana Silva,41,M,Sabugal
+14,Débora Silva-Torres,53,M,Praia da Vitória
+15,Brian da Matias,57,F,Albufeira
+16,Hugo Coelho,41,M,Peniche
+17,André Branco,20,M,Guarda
+18,Sebastião Vieira,39,M,Alverca do Ribatejo
+19,Mauro Assunção,19,M,Tomar
+20,Leonor Loureiro,41,M,Tondela
+21,Filipa de Martins,61,F,Lourosa
+22,Gaspar Matos,47,M,Sintra
+23,Andreia Carvalho,55,F,Mealhada
+24,Bianca Nunes-Pereira,19,M,Gondomar
+25,Eduardo Melo,38,F,Elvas
+26,Eduarda Machado,50,M,Guarda
+27,Benedita Soares,29,M,Montemor-o-Novo
+28,Miriam-Nicole Carvalho,39,F,Felgueiras
+29,Melissa-Nicole Andrade,61,F,Freamunde
+30,Marco Gaspar,42,F,Torres Novas
+31,Rafael Barros,66,M,Lagos
+32,Valentim Teixeira-Correia,44,F,Almada
+33,Mariana de Matos,59,M,Vila Nova de Foz Côa
+34,Joaquim Pacheco-Fonseca,45,M,Valbom
+35,Ângelo Pires,33,F,Miranda do Douro
+36,Filipe Lourenço,32,F,Ponta Delgada
+37,Tomé Cardoso-Abreu,64,M,Gafanha da Nazaré
+38,Eduarda Machado,68,M,Évora
+39,Matilde Lopes,61,F,Rio Maior
+40,Fábio Vicente,69,F,Bragança
+41,Laura Machado,20,F,Marco de Canaveses
+42,Lucas Batista,54,M,Silves
+43,Madalena Branco-Santos,68,M,Estremoz
+44,Alexandra Jesus,24,M,Marco de Canaveses
+45,Lourenço do Soares,38,M,Póvoa de Santa Iria
+46,Mateus Henriques,26,M,Gouveia
+47,Maria Batista,56,M,Setúbal
+48,Ivo Pereira,35,F,Maia
+49,Adriana-Luna Nunes,21,M,Queluz
+50,Mauro Domingues,42,M,Quarteira
+51,Ariana Miranda,31,M,Loulé
+52,Diogo Matias,67,F,Cantanhede
+53,Daniel Castro,26,M,Amadora
+54,Lia Vieira,43,M,Mealhada
+55,Victória Tavares,19,F,Mangualde
+56,Joana Lima,37,M,Matosinhos
+57,Kelly Azevedo,45,M,Matosinhos
+58,Melissa Magalhães,64,M,Vila Nova de Gaia
+59,Pedro Brito,24,M,Esmoriz
+60,Mafalda-Leonor Antunes,61,M,Ermesinde
+61,Flor Pinho,25,F,Torres Novas
+62,Júlia Sousa,64,F,Santarém
+63,Constança Lima-Santos,52,F,Coimbra
+64,Maria Azevedo,31,M,Vila Nova de Foz Côa
+65,Flor Tavares,34,M,Braga
+66,Brian Gomes,53,M,Ílhavo
+67,Yasmin Cruz,67,F,Viana do Castelo
+68,Naiara Fernandes,57,M,Macedo de Cavaleiros
+69,Manuel Branco,21,M,Covilhã
+70,Joel Carvalho,19,F,Angra do Heroísmo
+71,Marta Brito,23,M,Vila do Conde
+72,Joana Mota,59,F,Mealhada
+73,David Assunção,21,F,Penafiel
+74,Luís Cunha,46,F,Montemor-o-Novo
+75,Kyara Figueiredo,35,M,Horta
+76,Pilar Moreira,43,M,Vila Nova de Foz Côa
+77,Jéssica Almeida,61,M,Beja
+78,Irina Santos,51,M,Vizela
+79,Mia Cardoso,27,M,Santa Cruz
+80,Sara Faria,53,M,Oliveira do Bairro
+81,Helena Lopes,31,M,Mirandela
+82,Nicole-Lúcia Carneiro,48,F,Barcelos
+83,Inês Marques,65,M,Espinho
+84,Lucas Macedo,32,F,Guarda
+85,Enzo Pires,25,M,Tomar
+86,Naiara Paiva,31,M,Fátima
+87,Alexandra Alves,40,M,Peso da Régua
+88,Vítor Lopes,57,F,Covilhã
+89,Pedro Oliveira,38,F,Covilhã
+90,Frederico Lopes,33,F,Sabugal
+91,Paulo Pinho,62,F,Santarém
+92,Matias Matias-Freitas,35,M,Vila Nova de Famalicão
+93,Marta-Violeta Marques,64,F,Silves
+94,Caetana Figueiredo,41,M,Felgueiras
+95,Marco Lima,43,M,Costa da Caparica
+96,Raquel Ribeiro,42,F,Caniço
+97,Leonardo Coelho,62,F,Moura
+98,Mariana do Almeida,58,F,Rio Tinto
+99,Marcos Santos,46,F,Valpaços
+100,Ivan Faria,32,F,Leiria
